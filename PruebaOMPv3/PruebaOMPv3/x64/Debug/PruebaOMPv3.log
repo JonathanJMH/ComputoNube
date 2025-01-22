@@ -1,0 +1,5 @@
+﻿  PruebaOMPv3.cpp
+C:\Users\jonat\source\repos\PruebaOMPv3\PruebaOMPv3.cpp(32,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\PruebaOMPv3\PruebaOMPv3.cpp(33,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\PruebaOMPv3\PruebaOMPv3.cpp(27,9): warning C4101: 'i': variable local sin referencia
+  PruebaOMPv3.vcxproj -> C:\Users\jonat\source\repos\PruebaOMPv3\x64\Debug\PruebaOMPv3.exe
